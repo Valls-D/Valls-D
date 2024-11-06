@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hey you!🖖
+
+Bienvenid@ a mi perfil de GitHub.
+
+About me 🙋‍♀️
+Soy ingeniera industrial y actualmente estoy haciendo un máster en ingeniería en software. 
+Trabajo en una consultoría como técnica especializada en SAP ABAP. 
+
+Soy una persona con personalidad ISTJ y, según la metodología de Business Chemistry, tengo un perfil Guardiana con un enfoque secundario de Driver. Esto significa que me caracterizo por ser meticulosa, confiable y pragmática. Me gusta construir soluciones técnicas eficientes y bien fundamentadas.
+
+
 
 <!--
 **Valls-D/Valls-D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
