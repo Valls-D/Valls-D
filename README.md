@@ -3,6 +3,7 @@
 Bienvenid@ a mi perfil de GitHub.
 
 About me 🙋‍♀️
+
 Soy ingeniera industrial y actualmente estoy haciendo un máster en ingeniería en software. 
 Trabajo en una consultoría como técnica especializada en SAP ABAP. 
 
